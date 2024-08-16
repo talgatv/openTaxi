@@ -1,0 +1,6 @@
+Django==3.2  # или другая нужная вам версия Django
+djangorestframework
+Pillow
+django-cors-headers
+PyJWT
+djangorestframework-simplejwt
